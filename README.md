@@ -19,5 +19,19 @@ The application also serves various functionalities to mentors such as chat supp
 <img src="screenshots/mentor_dashboard.jpg" height="300px"> <img src="screenshots/chat_list_mentor.jpg" height="300px"> <img src="screenshots/mentor_student.jpg" height="300px"> <img src="screenshots/mentor_student_edit.jpg" height="300px"> <img src="screenshots/mentor_group.jpg" height="300px"> <img src="screenshots/mentor_group_edit.jpg" height="300px">
 #### Others
 <img src="screenshots/slider_nav.jpg" height="300px"> <img src="screenshots/interview.jpg" height="300px"> <img src="screenshots/interview_content.jpg" height="300px"> <img src="screenshots/blogs.jpg" height="300px"> <img src="screenshots/blog_content.jpg" height="300px"> 
+## Programming Language Used
+*Kotlin*
+## Libraries Used
+<li>Navigation</li>
+<li>Fragment</li>
+<li>Layout</li>
+<li>Material Design</li>
+<li>Glide</li>
+<li>Retrofit</li>
+<li>GSON</li>
+<li>Layout</li>
+<li>Firebase Database</li>
+<li>Pierfrancesco Soffritti Android Youtube player</li>
+
 ## APK 
 <a href="https://play.google.com/store/apps/details?id=com.algoladder.algoladder&hl=en&gl=US" target="_blank"><img src="https://i.imgur.com/nhuCT37.png" alt="Get it on Google play"></a>
